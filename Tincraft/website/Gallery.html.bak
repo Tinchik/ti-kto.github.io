@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Галлерея</title>
+		<link rel="stylesheet" href="../css/style.css">
+	</head>
+	<body>
+			<h1>Галлерея</h1>
+		<main class="vsephoto">
+			<div class="photo photo1">
+				<img src="../img/aboba.jpg">
+			</div>
+			<div class="photo photo2">
+			<img src="../img/aboba.jpg">
+			</div>
+		</main>	
+	</body>
+
+</html>

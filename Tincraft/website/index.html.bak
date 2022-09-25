@@ -1,0 +1,17 @@
+<doctype! html>
+	<html>
+<head>
+	<title>Tincraft</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+	<h1>Tincraft</h1>
+	<form>
+	<input type="button" value="Купить проходку" onClick='location.href="http://codehelper.ru/"' class = "Buy">
+	</form>
+	<p>Tincraft - это уникальное место, где можно спокойно поиграть с друзьями,<br> поиграть одному, найти друзей
+	 или построить город.</p>
+	<h3>Айпи сервера - </h3>
+	<img src = "../img/aboba.jpg">
+</body>
+</html>
